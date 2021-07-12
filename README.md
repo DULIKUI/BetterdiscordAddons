@@ -1,2 +1,2 @@
 # BetterdiscordAddons
-All Addons Are Provided From https://betterdiscord.app
+All Addons Are Provided From [betterdiscord.app](https://betterdiscord.app)
